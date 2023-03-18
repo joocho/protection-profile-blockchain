@@ -2,55 +2,55 @@
 
 [Title Page](https://github.com/joocho/protection-profile-blockchain/blob/main/title-sc.md)
 
-# PP Introduction
+## 1. PP Introduction
 
-## PP References
-[PP References](https://github.com/joocho/protection-profile-blockchain/blob/main/pp-ref.md)
+  ### 1.1 PP References
+    
+  [PP References](https://github.com/joocho/protection-profile-blockchain/blob/main/pp-ref.md)
 
-## TOE Overview
+  ### 1.2 TOE Overview
 
-[Introduction](https://github.com/joocho/protection-profile-blockchain/blob/main/toe-intro.md)
-[TOE Definition](https://github.com/joocho/protection-profile-blockchain/blob/main/toe-def.md)
+  [Introduction](https://github.com/joocho/protection-profile-blockchain/blob/main/toe-intro.md)
 
-## Conformance Claims
+  [TOE Definition](https://github.com/joocho/protection-profile-blockchain/blob/main/toe-def.md)
 
-[PP Claim](https://github.com/joocho/protection-profile-blockchain/blob/main/pp-claim.md)
+## 2. Conformance Claims
 
-## Security Problem Definition
+  [PP Claim](https://github.com/joocho/protection-profile-blockchain/blob/main/pp-claim.md)
 
-### Description of Assets
+## 3. Security Problem Definition
 
-[Description Assets](https://github.com/joocho/protection-profile-blockchain/blob/main/assets.md)
+  ### 3.1 Description of Assets
 
-### Threats
+  [Description Assets](https://github.com/joocho/protection-profile-blockchain/blob/main/assets.md)
 
-[Threats](https://github.com/joocho/protection-profile-blockchain/blob/main/threats.md)
+  ### 3.2 Threats
 
-## Security Objectives
+  [Threats](https://github.com/joocho/protection-profile-blockchain/blob/main/threats.md)
 
-[Security Objectives](https://github.com/joocho/protection-profile-blockchain/blob/main/objectives.md)
+## 4. Security Objectives
 
-
-//## Extended Components Definition
-
-## Security Requirements
-
-### Security Functional Requirements
-
-[SFRs](https://github.com/joocho/protection-profile-blockchain/blob/main/sfrs.md)
+  [Security Objectives](https://github.com/joocho/protection-profile-blockchain/blob/main/objectives.md)
 
 
-### Security Assurance Requirements
+## 5. Security Requirements
 
-[SARs](https://github.com/joocho/protection-profile-blockchain/blob/main/sars.md)
+  ### 5.1 Security Functional Requirements
 
-
-### Security Requirements Rationale
-
-[Rationale](https://github.com/joocho/protection-profile-blockchain/blob/main/rationale.md)
+  [SFRs](https://github.com/joocho/protection-profile-blockchain/blob/main/sfrs.md)
 
 
-# Annex
+  ### 5.2 Security Assurance Requirements
 
-[Annex](https://github.com/joocho/protection-profile-blockchain/blob/main/annex.md)
+  [SARs](https://github.com/joocho/protection-profile-blockchain/blob/main/sars.md)
+
+
+  ### 5.3 Security Requirements Rationale
+
+  [Rationale](https://github.com/joocho/protection-profile-blockchain/blob/main/rationale.md)
+
+
+## 6. Annex
+
+  [Annex](https://github.com/joocho/protection-profile-blockchain/blob/main/annex.md)
 
